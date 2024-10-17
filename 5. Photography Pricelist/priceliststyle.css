@@ -142,3 +142,15 @@
 .btn:hover {
     background-color: #8d7762;
 }
+
+.terms-link {
+    color: blue; /* Blue text color */
+    text-decoration: underline; /* Underline the text */
+    font-weight: bold; /* Optional: make the text bold */
+}
+
+/* Hover effect */
+.terms-link:hover {
+    color: darkblue; /* Darker blue when hovered */
+    text-decoration: none; /* Optionally remove underline on hover */
+}

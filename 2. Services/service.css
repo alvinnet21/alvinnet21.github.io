@@ -5,16 +5,18 @@
     height: auto;
     margin :0 auto;
     margin-bottom : 100px;
-    border: solid 1px;
 }
 
 .contenttext {
     margin-left: -100px;
-    margin-top : 805px;
     align-self: center;
     background-color: white;
-    font-size: 30px;
+    font-size: 24px;
     height : auto
+}
+
+.content1 img{
+    height: 750px;
 }
 
 .container {
@@ -47,13 +49,15 @@
 }
 
 .btn {
+    display: inline-block;
     background-color: #998c7f;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
+    color: white;
     font-size: 30px;
     margin-top: 20px;
+    padding: 10px 20px;
+    text-decoration: none;
     border: none;
+    border-radius: 25px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
