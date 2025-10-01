@@ -39,8 +39,7 @@
     margin-bottom: 20px;
 }
 
-.address::after,
-.pre-wedding::after {
+.contact-phone::after {
     content: "";
     display: block;
     width: 100%;
